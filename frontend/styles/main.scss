@@ -1,0 +1,107 @@
+body {
+    background-color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+    color: #152C5B;
+}
+
+.navbar-brand {
+    img {
+        max-height: 40px;
+    }
+}
+
+.navbar-light {
+    .navbar-nav {
+        .nav-link {
+            color: #152C5B;
+
+            &.active{
+                font-weight: bold;
+                color:#152C5B !important;
+            }
+        }
+    }
+}
+
+.box {
+    margin-top: 80px !important;
+}
+
+header {
+
+    margin-top: 80px;
+
+    .tag-1 {
+        font-size: 16px;
+        color: #3252DF;
+        font-weight: 500;
+        margin-top: 30px;
+    }
+    .tag-2 {
+        font-size: 55px;
+        color: #152C5B;
+        font-weight: bold;
+    }
+
+    .banner {
+        max-width: 100%;
+    }
+    .btn-get-started {
+        background-color: #3252DF;
+        color: #fff;
+    
+        &:hover {
+            background-color: #8499F8;
+            color: #fff;
+        }
+    }
+
+}
+
+.information {
+    margin-top: 80px;
+
+    .section-1 {
+        color: #3252DF;
+        font-size: 30px;
+        font-weight: 600;
+    }
+
+    .section-2 {
+        font-size: 18px;
+        font-weight: 300;
+    }
+}
+
+.about{
+    margin-top: 80px;
+    img {
+        margin-top: 35px !important;
+        max-width: 100%;
+    }
+    .btn {
+        background-color: #3252DF;
+        color: #fff;
+        border-radius: 50px;
+        font-size: 18px;
+        font-weight: 400;
+        c {
+            color : #F7EA00;
+        }
+    }
+
+    .title {
+        margin-top: 15px;
+        font-size: 30px;
+        font-weight: 600;
+        color: #3252DF;
+        c {
+            color : #F7EA00;
+        }
+    }
+
+    hr {
+        margin-top: 80px !important;
+    }
+}
+
