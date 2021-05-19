@@ -38,6 +38,12 @@ header .tag-2 {
   font-weight: bold;
 }
 
+header .tag-4 {
+  font-size: 48px;
+  color: #1742cf;
+  font-weight: 500;
+}
+
 header .banner {
   max-width: 100%;
 }
