@@ -40,8 +40,7 @@ header .tag-2 {
 
 header .tag-4 {
   font-size: 48px;
-  color: #1742cf;
-  font-weight: 500;
+  color: #177ccf;
 }
 
 header .banner {
@@ -71,6 +70,21 @@ header .btn-get-started:hover {
 .information .section-2 {
   font-size: 18px;
   font-weight: 300;
+}
+
+.information .section-jumlah .card-positif {
+  background-color: #fb3640;
+  border-radius: 15px;
+}
+
+.information .section-jumlah .card-sembuh {
+  background-color: #29bb89;
+  border-radius: 15px;
+}
+
+.information .section-jumlah .card-meninggal {
+  background-color: #194350;
+  border-radius: 15px;
 }
 
 .about {
@@ -107,5 +121,128 @@ header .btn-get-started:hover {
 
 .about hr {
   margin-top: 80px !important;
+}
+
+.section-title {
+  margin-top: 50px;
+  font-size: 50px;
+  font-weight: 600;
+  color: #3252DF;
+}
+
+.section-sub-totle-1 {
+  margin-top: -5px;
+  font-size: 22px;
+  font-weight: 300;
+}
+
+.section-sub-totle-2 {
+  margin-top: -20px;
+  font-size: 22px;
+  font-weight: 300;
+}
+
+.content {
+  margin-top: 60px;
+}
+
+.content .kebijakan-privasi-1 .title-kp-1 {
+  font-size: 24px;
+  font-weight: 600;
+  color: #3252DF;
+}
+
+.content .kebijakan-privasi-1 .content-1 {
+  font-size: 20px;
+  font-weight: 300;
+  margin-top: -15px;
+}
+
+.content .kebijakan-privasi-1 img {
+  margin-top: 0px;
+}
+
+.content .kebijakan-privasi-2 {
+  margin-top: 65px;
+}
+
+.content .kebijakan-privasi-2 .title-kp-2 {
+  font-size: 24px;
+  font-weight: 600;
+  color: #3252DF;
+  padding-left: 8px;
+}
+
+.content .kebijakan-privasi-2 .content-2 {
+  font-size: 20px;
+  font-weight: 300;
+  margin-top: -15px;
+  padding-left: 8px;
+}
+
+.content .kebijakan-privasi-2 img {
+  margin-top: 0px;
+}
+
+.content .kebijakan-privasi-3 {
+  margin-top: 65px;
+}
+
+.content .kebijakan-privasi-3 .title-kp-3 {
+  font-size: 24px;
+  font-weight: 600;
+  color: #3252DF;
+}
+
+.content .kebijakan-privasi-3 .content-3 {
+  font-size: 20px;
+  font-weight: 300;
+  margin-top: -15px;
+}
+
+.content .kebijakan-privasi-3 img {
+  margin-top: 0px;
+}
+
+.content .kebijakan-privasi-4 {
+  margin-top: 65px;
+}
+
+.content .kebijakan-privasi-4 .title-kp-4 {
+  font-size: 24px;
+  font-weight: 600;
+  color: #3252DF;
+  padding-left: 8px;
+}
+
+.content .kebijakan-privasi-4 .content-4 {
+  font-size: 20px;
+  font-weight: 300;
+  margin-top: -15px;
+  padding-left: 8px;
+}
+
+.content .kebijakan-privasi-4 img {
+  margin-top: 0px;
+}
+
+.content .kebijakan-privasi-5 {
+  margin-top: 65px;
+}
+
+.content .kebijakan-privasi-5 .title-kp-5 {
+  font-size: 24px;
+  font-weight: 600;
+  color: #3252DF;
+}
+
+.content .kebijakan-privasi-5 .content-5 {
+  font-size: 20px;
+  font-weight: 300;
+  margin-top: -15px;
+}
+
+.content .kebijakan-privasi-5 img {
+  margin-top: 0px;
 }
 /*# sourceMappingURL=main.css.map */

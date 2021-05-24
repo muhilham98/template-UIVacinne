@@ -75,6 +75,22 @@ header {
         font-size: 18px;
         font-weight: 300;
     }
+
+    .section-jumlah {
+       .card-positif{
+            background-color:#fb3640;
+            border-radius: 15px;
+       }
+       .card-sembuh{
+            background-color: #29bb89;
+            border-radius: 15px;
+       }
+       .card-meninggal{
+            background-color: #194350;
+            border-radius: 15px;
+       }
+    }
+
 }
 
 .about{
@@ -109,3 +125,123 @@ header {
     }
 }
 
+.section-title{
+    margin-top: 50px;
+    font-size: 50px;
+    font-weight: 600;
+    color: #3252DF;
+}
+
+.section-sub-totle-1{
+    margin-top: -5px;
+    font-size: 22px;
+    font-weight: 300;
+}
+
+.section-sub-totle-2{
+    margin-top: -20px;
+    font-size: 22px;
+    font-weight: 300;
+}
+
+.content{
+    margin-top: 60px;
+    
+    .kebijakan-privasi-1{
+        .title-kp-1{
+            font-size: 24px;
+            font-weight: 600;
+            color: #3252DF;
+        }
+        .content-1{
+            font-size: 20px;
+            font-weight: 300;
+            margin-top: -15px;
+        }
+
+        img {
+            margin-top: 0px;
+        }
+    }
+
+    .kebijakan-privasi-2{
+        margin-top: 65px;
+        
+        .title-kp-2{
+            font-size: 24px;
+            font-weight: 600;
+            color: #3252DF;
+            padding-left: 8px;
+        }
+        .content-2{
+            font-size: 20px;
+            font-weight: 300;
+            margin-top: -15px;
+            padding-left: 8px;
+        }
+
+        img {
+            margin-top: 0px;
+        }
+    }
+
+    .kebijakan-privasi-3{
+        margin-top: 65px;
+        .title-kp-3{
+            font-size: 24px;
+            font-weight: 600;
+            color: #3252DF;
+        }
+        .content-3{
+            font-size: 20px;
+            font-weight: 300;
+            margin-top: -15px;
+        }
+
+        img {
+            margin-top: 0px;
+        }
+    }
+
+    .kebijakan-privasi-4{
+        margin-top: 65px;
+        
+        .title-kp-4{
+            font-size: 24px;
+            font-weight: 600;
+            color: #3252DF;
+            padding-left: 8px;
+        }
+        .content-4{
+            font-size: 20px;
+            font-weight: 300;
+            margin-top: -15px;
+            padding-left: 8px;
+        }
+
+        img {
+            margin-top: 0px;
+        }
+    }
+
+    .kebijakan-privasi-5{
+        margin-top: 65px;
+        .title-kp-5{
+            font-size: 24px;
+            font-weight: 600;
+            color: #3252DF;
+        }
+        .content-5{
+            font-size: 20px;
+            font-weight: 300;
+            margin-top: -15px;
+        }
+
+        img {
+            margin-top: 0px;
+        }
+    }
+
+    
+
+}
